@@ -1,0 +1,9 @@
+[[libigc]]
+arch = "x86_64"
+git-tree-sha1 = "0aef8c01e516a53ee83192ad2f670fc4dc76f0e7"
+libc = "glibc"
+os = "linux"
+
+    [[libigc.download]]
+    sha256 = "5a4c7b805dc3b1afd62df64994968c9338d73d79657c253631fb461f596ead2f"
+    url = "https://github.com/michel2323/libigc_jll.jl/releases/download/libigc-v1.0.12260+0/libigc.v1.0.12260.x86_64-linux-gnu.tar.gz"
